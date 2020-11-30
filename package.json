@@ -6,5 +6,10 @@
   "license": "MIT",
   "dependencies": {
     "@cucumber/cucumber": "^7.0.0-rc.0"
+  },
+  "devDependencies": {
+    "hamjest": "^3.7.1",
+    "mocha": "^8.2.1",
+    "sinon": "^9.2.1"
   }
 }
